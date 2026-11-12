@@ -1,0 +1,5 @@
+# arquivos gerados na compilação
+target/
+# configurações pessoais do IntelliJ
+.idea/
+*.iml
